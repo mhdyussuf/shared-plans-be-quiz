@@ -1,0 +1,3 @@
+version: 1
+id: shared-plans-be-quiz
+remote: https://github.com/mhdyussuf/shared-plans-be-quiz.git
